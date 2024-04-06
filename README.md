@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 
 ### Visitor Count:
 
-![Visitor Count](https://profile-counter.glitch.me/apoddaturi/count.svg)
+[![](https://visitcount.itsvg.in/api?id=apoddaturi&label=Profile%20Views&color=8&icon=1&pretty=false)](https://visitcount.itsvg.in)
