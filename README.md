@@ -79,4 +79,4 @@
 
 ### Visitor Count :
 
-[![](https://visitcount.itsvg.in/api?id=apoddaturi&label=Profile%20Views&color=8&icon=1&pretty=false)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/apoddaturi/count.svg)
