@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Anutej Poddaturi👋
 
 -  🌱 Currently working on MERN Stack, Kubernetes and DevSecOps. 
